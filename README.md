@@ -6,3 +6,6 @@ The clustering techniques are mentioned below, along with the colab implementati
 2. [Hierarchical Clustering](https://colab.research.google.com/drive/1zhGJVGH4MYWSqwfFJxi-CHQIvgKL7lo2?usp=sharing)
 3. [Gaussian Mixture Models](https://colab.research.google.com/drive/13PISHmvLmajUMHha4syzbk_O7hy-yM1K?usp=sharing)
 4. [DB Scan Clustering](https://colab.research.google.com/drive/1_dNtsSFzH6CPFGaIURGQAv1zHbDwt2xk?usp=sharing)
+5. [Time Series Clustering](https://colab.research.google.com/drive/1rMPhHBJcKxpRY4SzmzEMO6I6sE_G5tQp?usp=sharing)
+
+The required data for the Time Series colab is provided in the Data folder.
