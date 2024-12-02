@@ -8,6 +8,8 @@ The clustering techniques are mentioned below, along with the colab implementati
 4. [DB Scan Clustering](https://colab.research.google.com/drive/1_dNtsSFzH6CPFGaIURGQAv1zHbDwt2xk?usp=sharing)
 5. [Anomaly Detection](https://colab.research.google.com/drive/1pZOh2kaugOJDaTCcf6ENoH2s16259OFh?usp=sharing)
 6. [Time Series Clustering](https://colab.research.google.com/drive/1rMPhHBJcKxpRY4SzmzEMO6I6sE_G5tQp?usp=sharing)
-7. [Image Clustering](https://colab.research.google.com/drive/1B036s6Htabdhqy9mqZzWjY3VD4OhlLFM?usp=sharing)
+7. [Document Clustering](https://colab.research.google.com/drive/1ZT54eG7M3WQ6cohcXTTj3EJhM0ebzbYr?usp=sharing)
+8. [Image Clustering](https://colab.research.google.com/drive/1B036s6Htabdhqy9mqZzWjY3VD4OhlLFM?usp=sharing)
+9. [Audio Clustering]()
 
 The required data for the Time Series colab is provided in the Data folder.
